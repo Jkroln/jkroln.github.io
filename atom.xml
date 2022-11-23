@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jkroln.github.io</id>
+    <title>jkroln&apos;s blog</title>
+    <updated>2022-11-23T04:07:57.751Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jkroln.github.io"/>
+    <link rel="self" href="https://jkroln.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://jkroln.github.io/images/avatar.png</logo>
+    <icon>https://jkroln.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, jkroln&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[PornContentTest]]></title>
+        <id>https://jkroln.github.io/post/porncontenttest/</id>
+        <link href="https://jkroln.github.io/post/porncontenttest/">
+        </link>
+        <updated>2022-11-23T04:06:22.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://jkroln.github.io/post-images/1669176470378.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一键上传你的图片到自定义图床-『PicGo』]]></title>
+        <id>https://jkroln.github.io/post/yi-jian-shang-chuan-ni-de-tu-pian-dao-zi-ding-yi-tu-chuang-picgo/</id>
+        <link href="https://jkroln.github.io/post/yi-jian-shang-chuan-ni-de-tu-pian-dao-zi-ding-yi-tu-chuang-picgo/">
+        </link>
+        <updated>2022-11-09T04:20:55.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/Jkroln/forpicgoUploadings/main/img/20221109122256.png" alt="" loading="lazy"><br>
+一般到图床要打开浏览器手动上传，之后还要手动获取图片URL，not elegant</p>
+<p>所以在使用MarkText的时候我发现了这个<br>
+<img src="https://raw.githubusercontent.com/Jkroln/forpicgoUploadings/main/img/%E6%88%AA%E5%B1%8F2022-11-09%2012.25.32.png" alt="" loading="lazy"><br>
+so here we go~<br>
+<img src="https://raw.githubusercontent.com/Jkroln/forpicgoUploadings/main/img/20221109122645.png" alt="" loading="lazy"><br>
+上传方式多样，且上传后自动获取【自定义】类型URL<br>
+<img src="https://raw.githubusercontent.com/Jkroln/forpicgoUploadings/main/img/%E6%88%AA%E5%B1%8F2022-11-09%2012.28.47.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/Jkroln/forpicgoUploadings/main/img/%E6%88%AA%E5%B1%8F2022-11-09%2012.29.41.png" alt="" loading="lazy"><br>
+enjoy it~</p>
+]]></content>
+    </entry>
+</feed>
